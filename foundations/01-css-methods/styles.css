@@ -1,7 +1,10 @@
 
 /*styles.css*/
-p {
+
+div {
 background-color: red;
-color: blue;
+color:white;
 text-align: center;
+font-size: 40px;
+font-weight: bold;
 }
